@@ -1,0 +1,14 @@
+[
+  {
+    "theme": "Robot Uprising",
+    "filename": "story_1_Robot_Uprising.txt"
+  },
+  {
+    "theme": "Virtual Reality",
+    "filename": "story_2_Virtual_Reality.txt"
+  },
+  {
+    "theme": "Artificial Intelligence",
+    "filename": "story_3_Artificial_Intelligence.txt"
+  }
+]
