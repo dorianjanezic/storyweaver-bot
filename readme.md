@@ -22,7 +22,7 @@ StoryWeaver Bot is a Discord bot that generates interactive sci-fi stories using
 1. Clone this repository
 2. Install the required dependencies:
    ```
-   pip install discord.py python-dotenv openai
+   pip install -r requirements.txt
    ```
 3. Create a `.env` file in the project root with the following content:
    ```
